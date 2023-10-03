@@ -1,0 +1,1 @@
+# Phase-7-Earthquake-Prediction-model-Using-Python
